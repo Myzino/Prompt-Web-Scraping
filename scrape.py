@@ -74,7 +74,7 @@ class WebScraperApp(QWidget):
         
         try:
             response = requests.get(url)
-            response.raise_for_status()  # Raise an error for bad responses
+            response.raise_for_status()  
             self.output_text.setPlainText(response.text)
         except requests.RequestException as e:
             self.show_error(f"Error: {e}")
