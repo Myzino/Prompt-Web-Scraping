@@ -16,9 +16,10 @@ you can try it yourselves if you want to clone it XD
    git clone <repository-url>
    cd <repository-directory>
 
-## PyQT Documentation
+##  Documentation
    For UI Documentation:
    https://doc.qt.io/
+   <br/>
    For python Documentation:
    https://www.python.org/doc/
 
