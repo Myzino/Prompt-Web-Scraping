@@ -13,3 +13,7 @@ This Python application allows users to scrape HTML content from a specified URL
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+## PyQT Documentation
+
+   https://doc.qt.io/
